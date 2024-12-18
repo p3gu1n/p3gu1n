@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Donne les permissions pour écrire dans le dépôt
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
@@ -20,5 +22,5 @@ jobs:
           git config user.name "CVanzetta"
           git config user.email "charles.vanzetta@gmail.com"
           git add -A .
-          git commit -m "generated 3D contribution"
+          git commit -m "generated 3D contribution" || echo "No changes to commit"
           git push
