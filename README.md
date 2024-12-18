@@ -21,5 +21,7 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 ## GitHub Stats
 ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
 
-![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
+# Mon profil 3D des contributions
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
 
