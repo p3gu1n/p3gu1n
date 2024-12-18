@@ -19,10 +19,12 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 - [Twitter](https://twitter.com/charlesvanzetta)
 
 ## GitHub Stats
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <div>
-   ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
+    <img src="https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark" 
+         alt="Charles' GitHub stats" width="400px" />
   </div>
 
   <div>
@@ -30,3 +32,4 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
   </div>
 
 </div>
+
