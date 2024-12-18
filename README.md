@@ -1,24 +1,25 @@
-# Hello! I'm Charles Vanzetta 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I'm+Charles!+🏄🏼‍♂️;Nice+to+meet+you!+😉&center=true&size=30&color=AE87E2">
+</h1>
 
-I am a passionate developer and consultant at Fortil. I have a strong background in **Java**, **Python**, and **JavaScript**, and enjoy working with web technologies such as **React**, **Node.js**, and **Vue.js**.
+I am a passionate developer and consultant at Fortil.
 
 When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects. I hold a bachelor's degree and love using my skills to solve challenging problems.
 
----
+> "✨ Make sexy code that makes you look intelligent. 💻🧠" – Charles Vanzetta
 
 ## GitHub Stats
 
-![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
-
-
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
 
----
+![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight&hide=contribs)
 
-## Skills & Technologies
-- 💻 Languages: Java, Python, JavaScript
-- 🌐 Web Frameworks: React, Node.js, Vue.js
-- 🧠 Interests: Machine Learning, Automation
+---
+## Skills & Technologies and Most Used Languages
+
+| Skills  | Most Used Languages |
+| ------------- | ------------- |
+| - 💻 Languages: Java, Python, JavaScript <br> - 🌐 Web Frameworks: React, Node.js, Vue.js <br> - 🧠 Interests: Machine Learning, Automation | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight) |
 
 ## About Me
 - 🏢 Consultant at **Fortil**
@@ -26,6 +27,5 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 - 🇫🇷 Based in France
 
 ## Find me online
-- [LinkedIn](https://www.linkedin.com/in/charlesvanzetta/)
-- [Twitter](https://twitter.com/charlesvanzetta)
-
+- [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
+- [Portfolio](https://cvanzetta.github.io/Portfolio/)
