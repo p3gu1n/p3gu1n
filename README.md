@@ -20,3 +20,6 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 
 ## GitHub Stats
 ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
+
+![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
+
