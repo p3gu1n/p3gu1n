@@ -19,9 +19,14 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 - [Twitter](https://twitter.com/charlesvanzetta)
 
 ## GitHub Stats
-![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-# Mon profil 3D des contributions
+  <div>
+    ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
+  </div>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
+  <div>
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="400px" />
+  </div>
 
+</div>
