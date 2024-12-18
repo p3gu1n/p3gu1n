@@ -8,13 +8,6 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 
 > "✨ Make sexy code that makes you look intelligent. 💻🧠" – Charles Vanzetta
 
-## GitHub Stats
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
-
-![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight&hide=contribs)
-
----
 ## Skills & Technologies and Most Used Languages
 
 | Skills  | Most Used Languages |
@@ -29,3 +22,10 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 ## Find me online
 - [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
 - [Portfolio](https://cvanzetta.github.io/Portfolio/)
+## GitHub Stats
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
+
+![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight&hide=contribs)
+
+---
