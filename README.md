@@ -24,8 +24,8 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 - [Portfolio](https://cvanzetta.github.io/Portfolio/)
 ## GitHub Stats
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
-
 ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight&hide=contribs)
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500px" />
 
 ---
