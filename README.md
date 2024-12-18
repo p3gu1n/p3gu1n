@@ -22,7 +22,7 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <div>
-    ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
+   ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
   </div>
 
   <div>
